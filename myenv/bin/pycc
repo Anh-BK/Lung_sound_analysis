@@ -1,0 +1,3 @@
+#!/home/anh/Desktop/vscode/lung_sound/myenv/bin/python
+from numba.pycc import main
+main()
